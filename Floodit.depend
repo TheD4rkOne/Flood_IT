@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1415072275 source:c:\users\igor brandão\desktop\floodit\input.c
+	<stdio.h>
+	<string.h>
+
+1415556125 source:c:\users\igor brandão\desktop\floodit\main.c
+	<stdio.h>
+	"module.h"
+	"option.h"
+	"enum.h"
+
+1415062305 c:\users\igor brandão\desktop\floodit\main.h
+
+1415013305 c:\users\igor brandão\desktop\floodit\config.h
+
+1415404607 source:c:\users\igor brandão\desktop\floodit\mechanics.c
+	<stdio.h>
+
+1415627305 source:c:\users\igor brandão\desktop\floodit\init.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1415458119 c:\users\igor brandão\desktop\floodit\module.h
+
+1415077781 c:\users\igor brandão\desktop\floodit\option.h
+
+1415068505 c:\users\igor brandão\desktop\floodit\enum.h
+
+1415073737 source:c:\users\igor brandão\desktop\floodit\functions.c
+	<stdlib.h>
+
+1415627305 source:c:\users\leandro\documents\floodit\init.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1415556125 source:c:\users\leandro\documents\floodit\main.c
+	<stdio.h>
+	"module.h"
+	"option.h"
+	"enum.h"
+
+1415458119 c:\users\leandro\documents\floodit\module.h
+
+1415077781 c:\users\leandro\documents\floodit\option.h
+
+1415068505 c:\users\leandro\documents\floodit\enum.h
+
+1415404607 source:c:\users\leandro\documents\floodit\mechanics.c
+	<stdio.h>
+
+1415073737 source:c:\users\leandro\documents\floodit\functions.c
+	<stdlib.h>
+
